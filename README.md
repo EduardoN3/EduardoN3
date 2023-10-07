@@ -1,4 +1,4 @@
-<h1 align="center">Hola mi es Jose Eduardo Nepomuceno Hernandez</h1>
+<h1 align="center">Hola mi nombre es Jose Eduardo Nepomuceno Hernandez</h1>
 
 
 <img src="https://i.imgur.com/JZbL1U1.gif" width="1200" height="450" align="center" />
