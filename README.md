@@ -1,12 +1,16 @@
 <h1 align="center">Hola mi es Jose Eduardo Nepomuceno Hernandez</h1>
-<h3 align="center">Estudio actualmente la carrera TECNOLOGIAS DE LA INFORMACION</h3>
 
-<img src="https://i.pinimg.com/originals/c9/9e/35/c99e353f761d318322c853c03ebcf21b.gif" width="1200" height="500" align="center" />
+
+<img src="https://tecnologia-innovadora.com/wp-content/uploads/2022/02/que-hacer-para-convertirse-en-ingeniero-en-sistemas-desarrollador-de-sistemas-computacionales-programacion-informatica.gif" width="1200" height="400" align="center" />
+
+- 🌱 Actualmente estoy aprendiendo **github, c++, JavaScript, Laravel, React Native, Expo Go**
+
+- ⚡ Dato curioso **me gusta hacer mis cosas con musica y tambien hacer musica en mis ratos libres**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/lalo hernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lalo hernandez" height="30" width="40" /></a>
-<a href="https://instagram.com/@lalot.11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@lalot.11" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100077364726892&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100077364726892&mibextid=zbwkwl" height="30" width="40" /></a>
+<a href="https://instagram.com/https://instagram.com/lalot.11?igshid=mzmynguynmu2yq==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/lalot.11?igshid=mzmynguynmu2yq==" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
