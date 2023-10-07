@@ -1,7 +1,7 @@
 <h1 align="center">Hola mi es Jose Eduardo Nepomuceno Hernandez</h1>
 
 
-<img src="https://tecnologia-innovadora.com/wp-content/uploads/2022/02/que-hacer-para-convertirse-en-ingeniero-en-sistemas-desarrollador-de-sistemas-computacionales-programacion-informatica.gif" width="1100" height="600" align="center" />
+<img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width="1100" height="600" align="center" />
 
 - 🌱 Actualmente estoy aprendiendo **github, c++, JavaScript, Laravel, React Native, Expo Go**
 
