@@ -1,7 +1,7 @@
 <h1 align="center">Hola mi es Jose Eduardo Nepomuceno Hernandez</h1>
 <h3 align="center">Estudio actualmente la carrera TECNOLOGIAS DE LA INFORMACION</h3>
 
-<img src="https://co.pinterest.com/pin/799670477567586290/" width="800" height="300" align="center" />
+<img src="https://i.pinimg.com/originals/c9/9e/35/c99e353f761d318322c853c03ebcf21b.gif" width="800" height="300" align="center" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
