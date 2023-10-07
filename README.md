@@ -1,7 +1,7 @@
 <h1 align="center">Hola mi es Jose Eduardo Nepomuceno Hernandez</h1>
 <h3 align="center">Estudio actualmente la carrera TECNOLOGIAS DE LA INFORMACION</h3>
 
-<img src="https://experienciajoven.com/wp-content/uploads/2023/01/programacion_gamer_001.gif" alt="Programación Gamer" width="300" height="300" align="center" />
+<img src="https://experienciajoven.com/wp-content/uploads/2023/01/programacion_gamer_001.gif" alt="Programación Gamer" width="800" height="800" align="center" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
